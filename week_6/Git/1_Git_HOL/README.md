@@ -1,25 +1,22 @@
-# Git Hands-On Exercise
+# Git-T03-HOL_001 - Resolve Merge Conflict
 
-## CTS Digital Nurture 5.0
+Objective
 
-**Student Name:** Saranya
+- Create branches
+- Create merge conflict
+- Resolve conflict using Git
+- Use P4Merge
+- Configure .gitignore
+- Delete merged branch
 
-**Track:** .NET Full Stack Engineer
+Tools Used
 
-## Objective
+- Git
+- Git Bash
+- GitLab
+- P4Merge
+- Notepad++
 
-This repository contains the Git Hands-On Exercise completed as part of the CTS Digital Nurture 5.0 program.
+Status
 
-## Files
-
-- welcome.txt
-
-## Git Commands Used
-
-- git init
-- git status
-- git add welcome.txt
-- git commit
-- git log
-- git remote add origin
-- git push -u origin master
+Completed Successfully
